@@ -1,0 +1,23 @@
+.rainbow {
+        font-size: 2em;
+        background: linear-gradient(to right, rgba(255,0,0,1) 0%, rgba(255,152,0,1) 17%, rgba(251,255,0,1) 37%, rgba(0,255,23,1) 51%, rgba(0,212,255,1) 72%, rgba(169,0,255,1) 92%, rgba(255,0,0,1) 100%);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+      }
+      body {
+        background-image: rgb(0,212,255);
+        background-image: linear-gradient(179deg, rgba(255,155,155,1) 0%, rgba(255,200,167,1) 10%, rgba(246,255,178,1) 21%, rgba(188,255,203,1) 31%, rgba(200,245,255,1) 43%, rgba(217,211,255,1) 54%, rgba(242,219,255,1) 62%, rgba(255,228,249,1) 71%, rgba(255,238,246,1) 82%, rgba(255,246,247,1) 90%, rgba(255,255,255,1) 100%);
+        background-size: 2500% 2500%;
+        font-family: 'Roboto', sans-serif;
+      }
+      #body-wrapper {
+        background-color: #ffffff;
+        border: #dadada 5px solid;
+        width: 85%;
+        margin: auto;
+        margin-top: 3%;
+        padding: 5%;
+        border-radius: 20px;
+        overflow-wrap: break-word;
+        hyphens: manual;
+      }
