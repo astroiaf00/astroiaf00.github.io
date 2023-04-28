@@ -21,3 +21,9 @@
         overflow-wrap: break-word;
         hyphens: manual;
       }
+.hr {
+    background-color:  #ededed;
+        border: #ededed 1px solid;
+        width: 80%;
+        height: 1px;
+}       
