@@ -27,3 +27,12 @@
         width: 80%;
         height: 1px;
 }       
+#toolbox {
+        width: 85%;
+        background-color: #ffffff;
+        border: #dadada 5px solid;
+        margin: auto;
+        margin-top: 3%;
+        padding: 2%;
+        border-radius: 10px;
+}
